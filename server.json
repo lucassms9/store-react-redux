@@ -1,0 +1,66 @@
+{
+  "stock":[
+    {
+      "id":1,
+      "amount":3
+    },
+    {
+      "id":2,
+      "amount":5
+    },
+    {
+      "id":3,
+      "amount":2
+    },
+    {
+      "id":4,
+      "amount":1
+    },
+    {
+      "id":5,
+      "amount":6
+    },
+    {
+      "id":6,
+      "amount":10
+    }
+  ],
+  "products":[
+    {
+      "id":1,
+      "title": "Tênis Olympikus Breed 2",
+      "price": 89.9,
+      "image":"https://static.netshoes.com.br/produtos/tenis-olympikus-breed-2/02/D22-3195-002/D22-3195-002_zoom2.jpg?ts=1571247200&ims=326x"
+    },
+    {
+      "id":2,
+      "title": "Tênis Adidas Lite Racer Cln Masculino",
+      "price": 169.9,
+      "image":"https://static.netshoes.com.br/produtos/tenis-adidas-lite-racer-cln-masculino/12/COL-7070-012/COL-7070-012_zoom2.jpg?ts=1584624042&ims=326x"
+    },
+    {
+      "id":3,
+      "title": "Tênis Adidas Lite Racer RBN Masculino",
+      "price": 120.9,
+      "image":"https://static.netshoes.com.br/produtos/tenis-adidas-lite-racer-rbn-masculino/06/COL-7150-006/COL-7150-006_zoom2.jpg?ts=1584965712&ims=326x"
+    },
+    {
+      "id":4,
+      "title": "Tênis Nike Court Lite 2 Masculino",
+      "price": 149.9,
+      "image":"https://static.netshoes.com.br/produtos/tenis-nike-court-lite-2-masculino/26/HZM-1864-026/HZM-1864-026_zoom2.jpg?ts=1572007514&ims=326x"
+    },
+    {
+      "id":5,
+      "title": "Tênis Adidas Falcon Feminino",
+      "price": 169.9,
+      "image":"https://static.netshoes.com.br/produtos/tenis-adidas-falcon-feminino/10/COL-4398-010/COL-4398-010_zoom2.jpg?ts=1587440444&ims=326x"
+    },
+    {
+      "id":6,
+      "title": "Tênis Mizuno Brave 3 Masculino",
+      "price": 159.9,
+      "image":"https://static.netshoes.com.br/produtos/tenis-mizuno-brave-3-masculino/08/D16-2773-108/D16-2773-108_zoom2.jpg?ts=1562062872&ims=326x"
+    }
+  ]
+}
